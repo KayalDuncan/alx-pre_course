@@ -1,1 +1,4 @@
-this is a new README file 
+# alx project
+
+this repo contains a sub repo with three directories(js , bash and c)
+
